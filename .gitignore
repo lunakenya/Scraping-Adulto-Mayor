@@ -18,3 +18,6 @@ graficos/
 # Entorno virtual si tienes
 env/
 venv/
+
+# Excepciones para archivos importantes
+!resources/imagen_portada.png
