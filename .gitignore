@@ -21,3 +21,7 @@ venv/
 
 # Excepciones para archivos importantes
 !resources/imagen_portada.png
+!data/*.png
+!data/*.jpg
+!data/*.jpeg
+!data global/*.pdf
