@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+matplotlib
+fpdf
+PyPDF2
+pandas

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# Archivos generados
+outputs/
+graficos/
+*.pdf
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Entorno virtual si tienes
+env/
+venv/
